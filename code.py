@@ -2,7 +2,7 @@ import csv
 import random
 import math
 import operator
-import pandas as pd
+
 
 
 path = "Iris.csv"
